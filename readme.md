@@ -1,6 +1,6 @@
 # About
 
-The repository contains a rudimentary webpage template I created when I learn about web development the first time (maybe one or two years ago).
+[Maintenance discontinued] The repository contains a rudimentary webpage template I created when I learn about web development the first time (maybe one or two years ago).
 
 If you create the asset folder and the video folder and place a video and soundtrack in the corresponding folders, the "webpage" should loop the soundtrack with the video being the website's background.
 
